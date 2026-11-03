@@ -7,7 +7,12 @@ Türkçe spor, canlı TV, film ve dizi eklentilerini tek depoda toplar.
 https://raw.githubusercontent.com/sonersimsek85-afk/lilit-cs/main/repo.json
 ```
 
-Kısa yol: `https://tinyurl.com/lilit`
+Kısa yol (arkadaşlarına ver): **`v.gd/lilit`**
+
+Yedek adresler:
+```
+https://cdn.jsdelivr.net/gh/sonersimsek85-afk/lilit-cs@main/repo.json
+```
 
 ## Nasıl eklenir
 CloudStream → Ayarlar → Eklentiler → sağ alt buton → yukarıdaki adresi yapıştır → Depo ekle →
