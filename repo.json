@@ -1,0 +1,8 @@
+{
+  "name": "Lilit",
+  "description": "Tek depo — Türkçe spor, canlı TV, film ve dizi eklentileri (69 eklenti)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/sonersimsek85-afk/lilit-cs/main/plugins.json"
+  ]
+}

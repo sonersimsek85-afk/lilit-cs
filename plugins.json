@@ -1,0 +1,1478 @@
+[
+  {
+    "name": "0 WioSinema",
+    "internalName": "WioSinema",
+    "version": 87,
+    "description": "WioSinema - Türkçe film ve dizi sağlayıcıları tek katalogda. Seçili kaynaklar ve alternatif eşleşmeler taranır.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WioSinema.cs3?v=59810c5315ab",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 2392825,
+    "fileHash": "sha256-59810c5315ab1eb27270e0469b6f75986ef17e7b9c4dc89356572c3de13c23d3",
+    "apiVersion": 1
+  },
+  {
+    "name": "0 WioSpor",
+    "internalName": "WioSpor",
+    "version": 57,
+    "description": "WioSpor · Tek eklenti ile tüm spor sağlayıcıları, canlı skorlar ve kanallar.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/WioSpor.cs3?v=9f820774e1ff",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/wiospor.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 837265,
+    "fileHash": "sha256-9f820774e1ff9e9b3dda8d12e5037a29050ab308f9481948805643c16cf503df",
+    "apiVersion": 1,
+    "hash": "e3762002859555e66e89f8c148cecdbc04043ad3bb796bfe5747badce9802e1c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=ca1989aeea4c",
+    "status": 1,
+    "version": 487,
+    "name": "1 TurkishCineStream",
+    "internalName": "TurkishCineStream",
+    "authors": [
+      "Wiojelt",
+      "megix"
+    ],
+    "description": "Yerleşik CineStream kataloğu ve Türkçe altyazı kaynakları; ikinci eklenti indirmeden çalışır.",
+    "fileSize": 840939,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ca1989aeea4c068d2315d67a72ae64e2c5c5f2c9e4436dea124b897925f5322d"
+  },
+  {
+    "name": "1 v10 Spor",
+    "internalName": "BirdirbirIPTV",
+    "version": 28,
+    "description": "v10 Spor / IPTV - 17 seÃ§ili canlÄ± liste, beIN, S Sport, Tivibu, tabii, Exxen, ulusal ve dÃ¼nya kanallarÄ±",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/BirdirbirIPTV.cs3?v=a57408a2254d",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 238394,
+    "fileHash": "sha256-a57408a2254d21cabdfa52c8c08b051d7b2745e1cc54397a3f936741addf1a58",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/ArdaSpor.cs3?v=2944961cee66",
+    "status": 3,
+    "version": 12,
+    "name": "ArdaSpor",
+    "internalName": "ArdaSpor",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "ğŸŸ¢ Kaynak: ArdaSpor Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "fileSize": 182830,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-2944961cee6655da0dacfd17feb7dd52a0739e5fcba1367c03766bae0a1843de"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/AslanTV.cs3?v=3abc75e13cc7",
+    "status": 3,
+    "version": 11,
+    "name": "AslanTV",
+    "internalName": "AslanTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🟢 Kaynak: Aslan TV · Derleme izni ve emeği için yapımcısına teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
+    "fileSize": 266087,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-3abc75e13cc76b6867f12ef6afa5ea3fc5f6910088724459163d7bd4a806ed0d"
+  },
+  {
+    "name": "AtomSpor",
+    "internalName": "AtomSpor",
+    "version": 2,
+    "description": "AtomSporTV canlı spor kanalları ve maç yayınları",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/AtomSpor.cs3?v=bd733112e552",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AtomSpor.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 158179,
+    "fileHash": "sha256-bd733112e5527ee491ce087b139624711e7e575f504233d91a41f2a6be1a8a26",
+    "apiVersion": 1
+  },
+  {
+    "name": "BasketballReplays",
+    "internalName": "BasketballReplays",
+    "version": 2,
+    "description": "BasketballReplays Â· Full game replays (NBA, EuroLeague)",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/BasketballReplays.cs3?v=1b5f36ffb8c3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballReplays.png",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "language": "en",
+    "status": 3,
+    "fileSize": 160702,
+    "fileHash": "sha256-1b5f36ffb8c33a2e93317533287bc3fa02f0e5c577351f2c128a6efaae7d719b",
+    "apiVersion": 1
+  },
+  {
+    "name": "BasketballVideo",
+    "internalName": "BasketballVideo",
+    "version": 3,
+    "description": "BasketballVideo Â· Game replays & highlights (AfiÅŸ destekli)",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/BasketballVideo.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballVideo.png",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "language": "en",
+    "status": 3,
+    "fileSize": 170982,
+    "fileHash": "sha256-1114aa4a1ffda6b58c2dda5bbf7db27b6b12d1bec86d6de0881930d8e413d2d6",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/BelgeselX.cs3?v=00996f7478e8",
+    "status": 3,
+    "version": 9,
+    "name": "BelgeselX",
+    "internalName": "BelgeselX",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Belgesel X · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 139173,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-00996f7478e8b42b9e9f6fe97e107a88b9a607c6a855e6b226893fe291d1376d"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/BetmatikTV.cs3?v=b6304052c9e7",
+    "status": 3,
+    "version": 3,
+    "name": "BetmatikTV",
+    "internalName": "BetmatikTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Betmatik TV canlÄ± spor kanallarÄ± Â· otomatik alan gÃ¼ncelleme",
+    "fileSize": 219101,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b6304052c9e77ea36c957e55e66e2706aba4a1023cdf350fb019609fab09b8a8"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/BeyazElma.cs3",
+    "status": 3,
+    "version": 12,
+    "name": "BeyazElma",
+    "internalName": "BeyazElma",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "ğŸŸ¢ Kaynak: BeyazElma Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "fileSize": 219121,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-4948e352375d04fad0510847b0127aa8226176e7ac1aaf048ae7ff7d058adcd6"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/CanliTV.cs3",
+    "status": 1,
+    "version": 5,
+    "name": "CanliTV",
+    "internalName": "CanliTV",
+    "authors": [
+      "BTcozum",
+      "keyiflerolsun"
+    ],
+    "description": "Canli TV - iptv-org TR kanal listesi",
+    "fileSize": 20512,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=iptv-org.github.io&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-b56c024d6ab83c509e5432c5f93e8bdbd4c6884090f4b61175426966eac101b1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DDizi.cs3?v=3881353583d1",
+    "status": 3,
+    "version": 8,
+    "name": "DDizi",
+    "internalName": "DDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 113110,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-3881353583d130d0a9b1346a24361ef46b99e1a9b0b6778089a2bbc1f4585090"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziBol.cs3?v=80d33a6d0d43",
+    "status": 3,
+    "version": 8,
+    "name": "DiziBol",
+    "internalName": "DiziBol",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziBol; bazı filmlerde kaynak bulunmayabilir ve bu ayrıntı sayfasında belirtilir.",
+    "fileSize": 139195,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-80d33a6d0d4328d257388e82694888c4603b32a03f6cfd90c6a20fadee172654"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziBox.cs3?v=11ac03407cac",
+    "status": 3,
+    "version": 11,
+    "name": "DiziBox",
+    "internalName": "DiziBox",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Dizi Box · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 119488,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-11ac03407cac87e32fab87601856d906e9d035b8f0ddb95a070590508cec43a3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dizilla.cs3?v=c4d4f28fcb00",
+    "status": 3,
+    "version": 13,
+    "name": "Dizilla",
+    "internalName": "Dizilla",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Dizilla · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 268818,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-c4d4f28fcb00d3d917b7f2b70a3c7cb533875417464e1977c1f631eddfc19a83"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziMom.cs3?v=9db0c2057c9b",
+    "status": 3,
+    "version": 10,
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Dizi Mom · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 133178,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-9db0c2057c9b41be745b6a5aa38d087ba7e32031b6a45627febc1a33b4c1155e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=9edbba7de771",
+    "status": 3,
+    "version": 25,
+    "name": "DiziPalHub",
+    "internalName": "DiziPalHub",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
+    "fileSize": 232194,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34",
+    "hash": "9edbba7de77174e2ed2828238b05ef16fedfb42e2a5f5561ff8af53c8ec59a34"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziRella.cs3?v=7c1a63a96d49",
+    "status": 3,
+    "version": 8,
+    "name": "DiziRella",
+    "internalName": "DiziRella",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DiziRella · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 137139,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-7c1a63a96d49b750cbb6624813fa6b5089d175a96af19eea4ef83bd051f9fbcb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziYou.cs3?v=fb8343407603",
+    "status": 3,
+    "version": 7,
+    "name": "DiziYou",
+    "internalName": "DiziYou",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 110647,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-fb834340760364dd67d6611b57f7635de634d1f62062f9b30d1a5431e29840ac"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dmax.cs3?v=f03c1d5fdb4f",
+    "status": 3,
+    "version": 1,
+    "name": "Dmax",
+    "internalName": "Dmax",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
+    "fileSize": 113520,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Documentary",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-f03c1d5fdb4f7fac476a763e6686cd58e40dc5d6a950f65e05797a43e7b52f13"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/DomatesTV.cs3?v=a458f3331ff4",
+    "status": 3,
+    "version": 6,
+    "name": "DomatesTV",
+    "internalName": "DomatesTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Domates TV dinamik spor kanallarÄ±",
+    "fileSize": 171289,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
+    "apiVersion": 1,
+    "fileHash": "sha256-a458f3331ff41fd1191a3ba07a5aaeabde10dc4b6aff953a8687abc2e1a0622c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FilmMakinesi.cs3?v=cfb9a5c37535",
+    "status": 3,
+    "version": 8,
+    "name": "FilmMakinesi",
+    "internalName": "FilmMakinesi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Film Makinesi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 113424,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-cfb9a5c375351f8a1adc97a4c5482c7d4bba1fde55925f6f0e09ca2a9705ef03"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FilmModu.cs3?v=e8dd82237e33",
+    "status": 3,
+    "version": 8,
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Film Modu · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 111444,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/FilmModu.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-e8dd82237e3398b260413768f3fab981b4fb582211a945dd14b22f0b98058c8b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Sinewix.cs3?v=effda5645405",
+    "status": 3,
+    "version": 17,
+    "name": "fragileTV",
+    "internalName": "Sinewix",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "fragileTV · Film, Dizi ve Animasyon arşivi",
+    "fileSize": 136874,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/fragiletv.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-effda5645405e2c522f984dd80aa3efd75d21033028c1b9ecefb9778693fee9a"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FullHDFilm.cs3?v=5aa2f17318f7",
+    "status": 3,
+    "version": 7,
+    "name": "FullHDFilm",
+    "internalName": "FullHDFilm",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Full H D Film · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 119671,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-5aa2f17318f714cce7348c06b05e8920bab931cae9aec8a04fb0e982fc43bece"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FullHDFilmizlesene.cs3?v=554a50415dd1",
+    "status": 3,
+    "version": 10,
+    "name": "FullHDFilmizlesene",
+    "internalName": "FullHDFilmizlesene",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 137274,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-554a50415dd1356d3f4ab65ca252243a481032f53fb6e5814deff2d95fa528b9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/GolgeTV.cs3",
+    "status": 0,
+    "version": 4,
+    "name": "GolgeTV",
+    "internalName": "GolgeTV",
+    "authors": [
+      "BTcozum",
+      "keyiflerolsun"
+    ],
+    "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+    "fileSize": 28117,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
+    "apiVersion": 1,
+    "fileHash": "sha256-9ba44984770620caf5c54f0559ca514c23aa41e64319c0661a8c76c4a09eba24"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmCehennemi.cs3?v=d16b591cdfbb",
+    "status": 3,
+    "version": 7,
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 124360,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-d16b591cdfbb26a577492143f21b567a6cb929187edb3d9d09fb4f2dd6e37272"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmDelisi.cs3?v=87ca54d40dd8",
+    "status": 3,
+    "version": 7,
+    "name": "HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "H D Film Delisi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 155629,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-87ca54d40dd82417261f8b5f12d230165b35450acce039413858e0f20d3ff065"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmizleBest.cs3?v=a3fde6548985",
+    "status": 3,
+    "version": 1,
+    "name": "HDFilmizleBest",
+    "internalName": "HDFilmizleBest",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 114918,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-a3fde654898531666627f70f96724ba741045772008af3a97c9ed7a994b8ed6d"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmIzleInk.cs3?v=e79a966fa1fa",
+    "status": 3,
+    "version": 7,
+    "name": "HDFilmIzleInk",
+    "internalName": "HDFilmIzleInk",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 132138,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-e79a966fa1fae26f9ca37be24150a22b186e8c74b8557c995b813ae5f596fb5f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmIzleVip.cs3?v=934583ab1da7",
+    "status": 3,
+    "version": 7,
+    "name": "HDFilmIzleVip",
+    "internalName": "HDFilmIzleVip",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 132156,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-934583ab1da754f0a5fdf27ac91f2398e8ef7f844470e716ff50f087c66f90d3"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/JestYayin.cs3?v=b42b08a9105f",
+    "status": 3,
+    "version": 3,
+    "name": "JestYayin",
+    "internalName": "JestYayin",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "JestYayin canlÄ± maÃ§lar ve spor kanallarÄ±",
+    "fileSize": 235405,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.jestyayin970.com/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b42b08a9105f61305057fa928f01f7eff94e95fba04fd4dbaba7a37d990aacfa"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/JetFilmizle.cs3?v=89c2ca6b9ba7",
+    "status": 3,
+    "version": 8,
+    "name": "JetFilmizle",
+    "internalName": "JetFilmizle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Jet Filmizle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 124492,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.now&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-89c2ca6b9ba7cc254ba9297d75ffd4995387df95d429be4512d8dd69a265d273"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/KoalaTV.cs3",
+    "status": 3,
+    "version": 5,
+    "name": "KoalaTV",
+    "internalName": "KoalaTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "KoalaTV · Canlı TV kanalları, spor, ulusal ve dünya yayınları.",
+    "fileSize": 547125,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/koalatv.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-61a9c4feee1f6f94dcf76cd2d6e6a6875bb5e7686dd6440db65e7f705b248736"
+  },
+  {
+    "internalName": "KoolTV",
+    "name": "Kool TV",
+    "version": 1,
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/KoolTV.cs3?v=bf354d6dcbf4",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "fileHash": "sha256-bf354d6dcbf40c47e473f8987ac62503ec63fbc71fb0dda686fa4dc38fc766f7",
+    "fileSize": 26410,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/KralSporHD.cs3?v=62c6cd0bd055",
+    "status": 3,
+    "version": 5,
+    "name": "KralSporHD",
+    "internalName": "KralSporHD",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "ğŸ‘‘ Kaynak: KralSporHD Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "fileSize": 176010,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KralSporHD.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-62c6cd0bd05570fa39c84f529de619ac61fe2b2d7fab83603311ab4af35ebb29"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/KultFilmler.cs3?v=dd311e265a47",
+    "status": 3,
+    "version": 7,
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Kult Filmler · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 118746,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-dd311e265a47220e0858f3950a580ffac594d856b41a18948426cf4d2d806e0c"
+  },
+  {
+    "name": "LeoTV",
+    "internalName": "LeoTV",
+    "version": 2,
+    "description": "LeoTV / LeoGrand canlı spor ve TV yayınları (Dinamik AES-CBC akış çözücü)",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/LeoTV.cs3?v=dbce2939ae71",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LeoTV.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 157849,
+    "fileHash": "sha256-dbce2939ae71d3d7e2f3ba69eab4e09a36689050eca6e5a91202280afddb9b3e",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/LiderFilmIzle.cs3?v=3547650abc3b",
+    "status": 3,
+    "version": 7,
+    "name": "LiderFilmIzle",
+    "internalName": "LiderFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 137142,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-3547650abc3b787462fb290f6ed3e545dff4e92fdbf8b413b7408506dcff16b4"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/MahsunSports.cs3?v=25e1f1d1f863",
+    "status": 3,
+    "version": 9,
+    "name": "MahsunSports",
+    "internalName": "MahsunSports",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "ğŸŸ¢ Kaynak: MahsunSports Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "fileSize": 178888,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg",
+    "apiVersion": 1,
+    "fileHash": "sha256-25e1f1d1f863015e5c530db2be18148158281e4663e845bc46eea7be0306ded6"
+  },
+  {
+    "name": "Mien TV",
+    "internalName": "VionTV",
+    "pluginClassName": "dev.wiojelt.viontv.VionTVPlugin",
+    "version": 3,
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/VionTV.cs3?v=884ee3683da9",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MienTV.webp",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "description": "Mien TV canlı TV kanallarını kategori, arama ve kanal logolarıyla sunar.",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 157481,
+    "fileHash": "sha256-884ee3683da9f4d74f3dbbd07fc6c420c1ab1d1f633d4c36e1a85eb2c32b1c40",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/NetVGold.cs3?v=d1bf7dcba3da",
+    "status": 3,
+    "version": 3,
+    "name": "NetVGold",
+    "internalName": "NetVGold",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "NETV Gold uygulamasÄ±nÄ±n doÄŸrulanmÄ±ÅŸ spor kanallarÄ±",
+    "fileSize": 230994,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d1bf7dcba3da7b13d21850505d7a3e297c0b5cf890fba0d3acfba352a0114b73"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/NewTVLive.cs3?v=8c6a381eb8c0",
+    "status": 3,
+    "version": 4,
+    "name": "NewTVLive",
+    "internalName": "NewTVLive",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "NewTV Live · Canlı TV, Türk kanalları, spor, sinema & ulusal yayınlar. PIN korumalı yetişkin bölümü.",
+    "fileSize": 180632,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/main/assets/newtvlive.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8c6a381eb8c02bb98feab240f9fa40df467443a656d8537728ee061219112b82"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PapazSports.cs3?v=1c6e2b5b8aca",
+    "status": 3,
+    "version": 1,
+    "name": "PapazSports",
+    "internalName": "PapazSports",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "PapazSports canlÄ± kanal ve maÃ§ listesi, artan alan adÄ± keÅŸfi ve gÃ¼ncelleme ekranÄ±.",
+    "fileSize": 230234,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1c6e2b5b8aca897fbe20b8e39636c1cb6d2cb155a02314a8efb5ab4aa82823d3"
+  },
+  {
+    "name": "PatronHD",
+    "internalName": "PatronHD",
+    "version": 17,
+    "description": "ğŸ”´ Kaynak: PatronHD / Patronspor Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/PatronHD.cs3?v=0a23118baf66",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 219019,
+    "fileHash": "sha256-0a23118baf665692d78258be70bc7e833440c8c7674a0625067e0f0e82965475",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/PowerSinema.cs3?v=8a946b6541ef",
+    "status": 3,
+    "version": 1,
+    "name": "PowerSinema",
+    "internalName": "PowerSinema",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
+    "fileSize": 127254,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "AnimeMovie",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8a946b6541ef9226556df4ae421b0b2449bd97607241a5de7942bd6e2bd2207c"
+  },
+  {
+    "name": "RecTV",
+    "internalName": "RecTV",
+    "version": 1,
+    "description": "RecTV - Canlı TV, Spor, Film ve Dizi sağlayıcısı.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/RecTV.cs3?v=bfbdab89f458",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png",
+    "tvTypes": [
+      "Live",
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 145660,
+    "fileHash": "sha256-bfbdab89f458c2443f5a471a31a7c9a87b89bf8c7a13e6780f843273f4153441",
+    "apiVersion": 1
+  },
+  {
+    "internalName": "SelcukFlix",
+    "name": "SelcukFlix",
+    "version": 5,
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SelcukFlix.cs3?v=7648b31bf94b",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "fileHash": "sha256-7648b31bf94b4de9db0a7790060e00630ced8485c7f7735f8ce6bb74e3e3c6f7",
+    "fileSize": 271356,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/SelcukSports.cs3?v=ab026e75dd18",
+    "status": 3,
+    "version": 12,
+    "name": "SelcukSports",
+    "internalName": "SelcukSports",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "ğŸŸ¢ Kaynak: SelÃ§ukSports Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "fileSize": 174357,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ab026e75dd18ed3c4e02355cb19ade60c1aa53250f6204b3a8d090218d1573d3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SetFilmIzle.cs3?v=de6a3491c297",
+    "status": 3,
+    "version": 7,
+    "name": "SetFilmIzle",
+    "internalName": "SetFilmIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Set Film Izle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 119285,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-de6a3491c29768727dc05697a8e4de50d1777d96aa293894e1238fd0a3f3c548"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SezonlukDizi.cs3?v=98d81130e276",
+    "status": 3,
+    "version": 10,
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Sezonluk Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 124477,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-98d81130e276abdaef899bb4395d7efef182b57606cb265096ec4c27a4b93f6a"
+  },
+  {
+    "name": "SinemaTV",
+    "internalName": "SinemaTV",
+    "version": 9,
+    "description": "SinemaTV · Azərbaycan və xarici filmlər, seriallar və cizgi filmləri.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/SinemaTV.cs3?v=d1460d24bf25",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/sinematv.png",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
+    ],
+    "language": "az",
+    "status": 1,
+    "fileSize": 135132,
+    "fileHash": "sha256-d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9",
+    "apiVersion": 1,
+    "hash": "d1460d24bf2543ac1c399f7cddcb8bbd07e21fef15c0fa0b053b840e12aa87d9"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/SporTV.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SporTV",
+    "internalName": "SporTV",
+    "authors": [
+      "BTcozum"
+    ],
+    "description": "SporTV - Canli spor kanallari (TRT Spor, beIN Sports, Eurosport, NBA TV ve daha fazlasi)",
+    "fileSize": 13714,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=trtspor.com.tr&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-f14b71bfebd63fb4fe601605017cdb07d95ec9cb6542794f9aad690d00e6c222"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/StbTV.cs3?v=64e0adef2cc4",
+    "status": 3,
+    "version": 7,
+    "name": "StbTV",
+    "internalName": "StbTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Stalker STB Canlı TV & Spor. Linkler en az 2, en fazla 6 kişiliktir. Kesintisiz canlı yayın akışı ve logo desteği.",
+    "fileSize": 284811,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StbTV.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-64e0adef2cc49216088b7f9df6002528f1af14bb75fe2c6a5a8054076bbd63ca"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/Streamed.cs3?v=779e29401bfa",
+    "status": 3,
+    "version": 3,
+    "name": "Streamed",
+    "internalName": "Streamed",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "ğŸŸ¢ Kaynak: Streamed â€¢ @Kraptor123 | @kekikanime Â· Futbol, Basketbol, Tenis, Kriket, DÃ¶vÃ¼ÅŸ ve daha fazlasÄ±.",
+    "fileSize": 169440,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Streamed.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-779e29401bfa0617bce8094d3ab5dfff85dfea354e79d88a70e24ed9fa4614b0"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/Taraftarium24.cs3?v=e56f19bb0def",
+    "status": 3,
+    "version": 14,
+    "name": "Taraftarium24",
+    "internalName": "Taraftarium24",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "ğŸ”´ Kaynak: Taraftarium24 Â· EmeÄŸi iÃ§in teÅŸekkÃ¼rler â™¥ Â· @wiojelt",
+    "fileSize": 175648,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-e56f19bb0defe1e321e964a5b30fc72759c5351c169fdfc8d476ffca858c4d69"
+  },
+  {
+    "name": "TimStreams",
+    "internalName": "TimStreams",
+    "version": 1,
+    "description": "TimStreams - Spor ve Canlı Yayınlar",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/TimStreams.cs3?v=0512185930a0",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "fileSize": 181013,
+    "fileHash": "sha256-0512185930a054789a25b0daad7cefa8814a756f060595eb01700751baa38dd5",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Tlctr.cs3?v=f81006b91b12",
+    "status": 3,
+    "version": 7,
+    "name": "Tlctr",
+    "internalName": "Tlctr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Tlctr · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 108169,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-f81006b91b12dc76737309eece58fc7e1053a95db2c29d87ed42dfee1def7ece"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TrDiziIzle.cs3?v=b0d388ffe29d",
+    "status": 3,
+    "version": 7,
+    "name": "TrDiziIzle",
+    "internalName": "TrDiziIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 137065,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-b0d388ffe29d45bdf5f3feb06bc7721a4066c2e3c61453654c52612d385d14cd"
+  },
+  {
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/TRGoals.cs3?v=b6fd54dc05d4",
+    "status": 3,
+    "version": 3,
+    "name": "TRGoals",
+    "internalName": "TRGoals",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "TRGoals dinamik spor kanallarÄ± ve alan gÃ¼ncelleme ekranÄ±",
+    "fileSize": 232719,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b6fd54dc05d497e55c6476e00e7a594cdb69df610d2ba5c58e5ab378904c7dbd"
+  },
+  {
+    "internalName": "TvDiziler",
+    "name": "TvDiziler",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TvDiziler.cs3?v=09aa49b326aa",
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "fileHash": "sha256-09aa49b326aa151d9c73f58d6c4dec50cf40bb13e688cfb0c4da38f578d8f5e8",
+    "fileSize": 2028325,
+    "status": 1,
+    "apiVersion": 1,
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "authors": [
+      "Wiojelt"
+    ]
+  },
+  {
+    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/vavooSpor.cs3",
+    "status": 1,
+    "version": 2,
+    "name": "vavooSpor",
+    "internalName": "vavooSpor",
+    "authors": [
+      "BTcozum"
+    ],
+    "description": "vavooSpor - Kapsamli dunya spor kanallari (iptv-org, ulke gruplu)",
+    "fileSize": 21792,
+    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=iptv-org.github.io&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-e76070d939180af8389642835c8d6e6703f5fe771996f0bee95076eeba0ba595"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/WebteIzle.cs3?v=fe93e5d1cdf0",
+    "status": 3,
+    "version": 15,
+    "name": "WebteIzle",
+    "internalName": "WebteIzle",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WebteIzle tekil sağlayıcı; katalog ve oynatma isteklerinde Cloudflare çözücü kullanır.",
+    "fileSize": 119167,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle.info&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-fe93e5d1cdf057ca5a1bfbf6a770653750ba6b36e7465692e0309895f3f51d49"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/YabanciDizi.cs3?v=9000debd7717",
+    "status": 3,
+    "version": 7,
+    "name": "YabanciDizi",
+    "internalName": "YabanciDizi",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 139261,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-9000debd77172d88c55b64e9439d06f4543e89593e93418a7b044eb9c052f564"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/YesilCamTv.cs3?v=144c2cf233e3",
+    "status": 3,
+    "version": 1,
+    "name": "YesilCamTv",
+    "internalName": "YesilCamTv",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
+    "fileSize": 111759,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-144c2cf233e315eccb2d796f11b83a7309ec8d7ce975a612ddea6e63aa11c056"
+  },
+  {
+    "name": "çiftd2m",
+    "internalName": "CiftD2M",
+    "version": 2,
+    "description": "çiftd2m · py.md/json canlı yayınları ve dinamik kategori yönetimi.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioSpor/builds/CiftD2M.cs3?v=b6896901f518",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/ciftd2m.png",
+    "tvTypes": [
+      "Live"
+    ],
+    "language": "tr",
+    "status": 1,
+    "fileSize": 181360,
+    "fileHash": "sha256-b6896901f518629155cb285e3e4d2f5a48364439b433b537e9e13ea607a14ab8",
+    "apiVersion": 1,
+    "hash": "b6896901f518629155cb285e3e4d2f5a48364439b433b537e9e13ea607a14ab8"
+  }
+]
