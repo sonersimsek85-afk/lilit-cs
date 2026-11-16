@@ -671,27 +671,6 @@
     "fileHash": "sha256-e6bc82db13d06fcc324b42ef812c8ff53c57d23b15e348ee2ec74dee069ef2c8"
   },
   {
-    "url": "https://raw.githubusercontent.com/baristomruk-max/BTVault/builds/GolgeTV.cs3",
-    "status": 0,
-    "version": 4,
-    "name": "GolgeTV",
-    "internalName": "GolgeTV",
-    "authors": [
-      "BTcozum",
-      "keyiflerolsun"
-    ],
-    "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "fileSize": 28117,
-    "repositoryUrl": "https://github.com/baristomruk-max/BTVault",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
-    "apiVersion": 1,
-    "fileHash": "sha256-9ba44984770620caf5c54f0559ca514c23aa41e64319c0661a8c76c4a09eba24"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmCehennemi.cs3?v=953b30cda390",
     "status": 3,
     "version": 8,
