@@ -25,7 +25,7 @@
   {
     "name": "0 WioSpor",
     "internalName": "WioSpor",
-    "version": 57,
+    "version": 59,
     "description": "WioSpor · Tek eklenti ile tüm spor sağlayıcıları, canlı skorlar ve kanallar.",
     "authors": [
       "Wiojelt"
@@ -41,8 +41,8 @@
     "fileSize": 837265,
     "fileHash": "sha256-9f820774e1ff9e9b3dda8d12e5037a29050ab308f9481948805643c16cf503df",
     "apiVersion": 1,
-    "hash": "9f820774e1ff9e9b3dda8d12e5037a29050ab308f9481948805643c16cf503df",
-    "filesize": 837265
+    "hash": "fb6a4caa5b38bf5fede57b5a5cf60f8ff9ecf81aeede488d5094024ea8b6534e",
+    "filesize": 846406
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/TurkishCineStream.cs3?v=8490832e53db",
@@ -1003,6 +1003,29 @@
     "hash": "e4760e93c9c2070783a163d3902d23fc1e48e8fbeac9e0d66d229f0aec5ede1a"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=anizium.co&sz=%size%",
+    "fileHash": "sha256-acf06d50a15d10939bf54982f9450a113cbf757543e29d162661ac4ffe00bac6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sonersimsek85-afk/lilit-koleksiyon",
+    "fileSize": 143266,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Lilit",
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "LilitKoleksiyon",
+    "description": "Lilit Koleksiyon — HDFilmCehennemi, FullHDFilmizlesene, DiziPal, DiziYou ve Anizium tek eklentide",
+    "url": "https://raw.githubusercontent.com/sonersimsek85-afk/lilit-koleksiyon/builds/LilitKoleksiyon.cs3",
+    "name": "LilitKoleksiyon"
+  },
+  {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/MahsunSports.cs3?v=25e1f1d1f863",
     "status": 3,
     "version": 9,
@@ -1026,8 +1049,8 @@
     "name": "Mien TV",
     "internalName": "VionTV",
     "pluginClassName": "dev.wiojelt.viontv.VionTVPlugin",
-    "version": 3,
-    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/VionTV.cs3?v=884ee3683da9",
+    "version": 7,
+    "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/VionTV.cs3?v=08946613d2f8",
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MienTV.webp",
     "authors": [
       "Wiojelt"
@@ -1039,9 +1062,11 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 157481,
-    "fileHash": "sha256-884ee3683da9f4d74f3dbbd07fc6c420c1ab1d1f633d4c36e1a85eb2c32b1c40",
-    "apiVersion": 1
+    "fileSize": 161887,
+    "fileHash": "sha256-08946613d2f850489fa4a18be253ab46fe98eba4658f10ab5b7b9fef876ddd42",
+    "apiVersion": 1,
+    "filesize": 161887,
+    "hash": "08946613d2f850489fa4a18be253ab46fe98eba4658f10ab5b7b9fef876ddd42"
   },
   {
     "url": "https://wiojelt-auth.hdf-worker.workers.dev/dl/spor/NetVGold.cs3?v=d1bf7dcba3da",

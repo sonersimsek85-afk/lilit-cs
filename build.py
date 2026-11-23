@@ -14,6 +14,7 @@ SOURCES = [
     ("WioSinema", "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/repo.json", None),
     ("BTVault", "https://raw.githubusercontent.com/baristomruk-max/BTVault/main/repo.json",
      {"SporTV", "GolgeTV", "vavooSpor", "CanliTV"}),  # sadece spor/canlı, +18 hariç
+    ("LilitKoleksiyon", "https://raw.githubusercontent.com/sonersimsek85-afk/lilit-koleksiyon/main/repo.json", None),
 ]
 
 OUT = "plugins.json"
