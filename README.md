@@ -7,16 +7,21 @@ Türkçe spor, canlı TV, film ve dizi eklentilerini tek depoda toplar.
 https://raw.githubusercontent.com/sonersimsek85-afk/lilit-cs/main/repo.json
 ```
 
-Kısa yol (arkadaşlarına ver): **`v.gd/lilit`**
+Kısa kod (arkadaşlarına ver): **`!lilit`**
+
+> CloudStream **4.9.0 ve üzeri** gerekir: `!` ile başlayan shortcode'lar py.md üzerinden çözülür
+> (4.8.0'da bu özellik yoktur). Eski sürümlerde aşağıdaki tam URL'yi kullanın.
 
 Yedek adresler:
 ```
+https://py.md/lilit
 https://cdn.jsdelivr.net/gh/sonersimsek85-afk/lilit-cs@main/repo.json
 ```
 
 ## Nasıl eklenir
-CloudStream → Ayarlar → Eklentiler → sağ alt buton → yukarıdaki adresi yapıştır → Depo ekle →
-depo kartından **İndir** → uygulamayı yeniden başlat.
+**Tek kelime (4.9.0+):** CloudStream → Ayarlar → Eklentiler → Depo ekle → "Depo URL'si veya kısa kod" alanına **`!lilit`** yaz → Depo ekle → depo kartından **İndir** → uygulamayı yeniden başlat.
+
+**Eski sürüm / yedek:** aynı yerde yukarıdaki tam adreslerden birini yapıştır.
 
 ## İçerik
 - `build.py` kaynak depoların eklenti listelerini birleştirir (WioSpor + WioSinema + BTVault'tan
