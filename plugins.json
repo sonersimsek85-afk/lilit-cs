@@ -457,30 +457,6 @@
     "hash": "0a9dda18b541163e905dfeab79af438db375df139d1b92659b07de3acfc18786"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziPalHub.cs3?v=c9bc8c46b45f",
-    "status": 3,
-    "version": 28,
-    "name": "DiziPalHub",
-    "internalName": "DiziPalHub",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "DiziPal Hub · Son Bölümler, 1592, 2225, DDiziPal ve Orjinal 15 kaynakları tek merkezde",
-    "fileSize": 242385,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/DiziPalHub.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-d7d1e1b94b7b36ee666f6c9c84ae33fdcd751d9b4c00c403389c1284da47e8b5",
-    "hash": "d7d1e1b94b7b36ee666f6c9c84ae33fdcd751d9b4c00c403389c1284da47e8b5"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziRella.cs3?v=986928647db7",
     "status": 3,
     "version": 11,
@@ -525,30 +501,6 @@
     "fileHash": "sha256-22a24ab5f0d8789a675b0b225bb8138fed61781fd3296cc5c0b7c4069249056e",
     "apiVersion": 1,
     "hash": "22a24ab5f0d8789a675b0b225bb8138fed61781fd3296cc5c0b7c4069249056e"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/DiziYou.cs3?v=b80d5a39f73b",
-    "status": 3,
-    "version": 10,
-    "name": "DiziYou",
-    "internalName": "DiziYou",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Dizi You · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 115625,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-cae5d8b46f89574196ae2c89f11d557be6cb7c88fe15248a3ae4c06c692c8ba5",
-    "hash": "cae5d8b46f89574196ae2c89f11d557be6cb7c88fe15248a3ae4c06c692c8ba5"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/Dmax.cs3?v=f03c1d5fdb4f",
@@ -664,54 +616,6 @@
     "apiVersion": 1,
     "fileHash": "sha256-e142363eceb1b479b9901d8d9701cf955a33417f4f277d9986793d7577956a92",
     "hash": "e142363eceb1b479b9901d8d9701cf955a33417f4f277d9986793d7577956a92"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/FullHDFilmizlesene.cs3?v=e6bc82db13d0",
-    "status": 3,
-    "version": 12,
-    "name": "FullHDFilmizlesene",
-    "internalName": "FullHDFilmizlesene",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Full H D Filmizlesene · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 144387,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-df8364de8db7194088baa7495b4a28432fc381982d637bb30f322d212907b1ae",
-    "hash": "df8364de8db7194088baa7495b4a28432fc381982d637bb30f322d212907b1ae"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmCehennemi.cs3?v=c43091af7f9a",
-    "status": 3,
-    "version": 8,
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 122949,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-c43091af7f9adf7a04a3c1c5df9b5fe298c9278d8c858def43969c0fb5f177a4",
-    "hash": "c43091af7f9adf7a04a3c1c5df9b5fe298c9278d8c858def43969c0fb5f177a4"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/HDFilmDelisi.cs3?v=87ca54d40dd8",

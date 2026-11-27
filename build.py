@@ -19,6 +19,17 @@ SOURCES = [
 
 OUT = "plugins.json"
 
+# LilitKoleksiyon tek .cs3 içinde bu siteleri zaten taşıyor.
+# Diğer kaynaklardaki aynı site kopyalarını atla; aksi hâlde TV'de çift görünür.
+KOLEKSIYON_ICINDEKILER = {
+    "hdfilmcehennemi",
+    "fullhdfilmizlesene",
+    "diziyou",
+    "dizipal",
+    "dizipalhub",
+    "anizium",
+}
+
 
 def fetch(url, timeout=30):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -52,6 +63,9 @@ def main():
             if allow is not None and name not in allow:
                 continue
             key = name.casefold()
+            internal = (it.get("internalName") or "").casefold()
+            if key in KOLEKSIYON_ICINDEKILER or internal in KOLEKSIYON_ICINDEKILER:
+                continue
             if key in seen_names or purl in seen_urls:
                 continue
             seen_names.add(key)
