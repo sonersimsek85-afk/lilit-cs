@@ -39,6 +39,13 @@ OLU_SITELER = {
     "rectv",
     "tranimaci",
     "wfilmizle",
+    # Örnek aramada sonuç üretmeyen / eksik görünenler (kullanıcı onayı, 27.11).
+    "ddizi",
+    "dmax",
+    "hdfilmizleink",
+    "hdfilmizlevip",
+    "sezonlukdizi",
+    "tlctr",
 }
 
 
