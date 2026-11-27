@@ -25,8 +25,9 @@ https://cdn.jsdelivr.net/gh/sonersimsek85-afk/lilit-cs@main/repo.json
 
 ## İçerik
 - `build.py` kaynak depoların eklenti listelerini birleştirir (WioSpor + WioSinema + BTVault'tan
-  4 spor/canlı sağlayıcı), isim çakışmalarını ayıklar.
-- `.github/workflows/sync.yml` her gün 03:17'de listeyi yeniler.
+  4 spor/canlı sağlayıcı), isim çakışmalarını ayıklar; LilitKoleksiyon içindeki siteleri, erişimi
+  olmayan ve örnek aramada boş dönen eklentileri hariç tutar (şu an **59** eklenti).
+- `.github/workflows/sync.yml` her gün 03:17 UTC'de listeyi yeniler.
 - +18 sağlayıcılar bilinçli olarak dahil edilmez.
 
 ## Not
