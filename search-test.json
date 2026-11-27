@@ -1,0 +1,730 @@
+[
+  {
+    "name": "0 WioSinema",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "0 WioSinema",
+      "domain": "4khdhub.one",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://4khdhub.one/?s=avatar",
+      "hits": 37,
+      "resulty": true,
+      "bytes": 36469
+    },
+    "bulundu": true,
+    "denenen": 108
+  },
+  {
+    "name": "0 WioSpor",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "1 TurkishCineStream",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "1 TurkishCineStream",
+      "domain": "hdfilmdelisi.one",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://hdfilmdelisi1.com/?s=avatar",
+      "hits": 5,
+      "resulty": true,
+      "bytes": 1085234
+    },
+    "bulundu": true,
+    "denenen": 24
+  },
+  {
+    "name": "1 v10 Spor",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "ArdaSpor",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "AslanTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "AsyaWatch",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "AsyaWatch",
+      "domain": "asyawatch.com",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://asyawatch.com/?s=avatar",
+      "hits": 4,
+      "resulty": true,
+      "bytes": 178685
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "AtomSpor",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "BasketballReplays",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "BasketballReplays",
+      "domain": "basketballreplays.net",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://basketballreplays.net/?s=avatar",
+      "hits": 5,
+      "resulty": true,
+      "bytes": 14656
+    },
+    "bulundu": true,
+    "denenen": 66
+  },
+  {
+    "name": "BasketballVideo",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "BasketballVideo",
+      "domain": "basketball-video.com",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://basketball-video.com/?s=avatar",
+      "hits": 5,
+      "resulty": true,
+      "bytes": 51689
+    },
+    "bulundu": true,
+    "denenen": 54
+  },
+  {
+    "name": "BelgeselX",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "BelgeselX",
+      "domain": "belgeselx.com",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://belgeselx.com/?s=avatar",
+      "hits": 15,
+      "resulty": true,
+      "bytes": 125101
+    },
+    "bulundu": true,
+    "denenen": 12
+  },
+  {
+    "name": "BetmatikTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "BeyazElma",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "CanliTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "Catcast TV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "DDizi",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 6
+  },
+  {
+    "name": "Deokwave",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "Deokwave",
+      "domain": "deokwave.com",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://deokwave.com/?s=avatar",
+      "hits": 17,
+      "resulty": true,
+      "bytes": 420013
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "DiziBol",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "DiziBol",
+      "domain": "dizibal.org",
+      "path": "/ara?q={q}",
+      "code": 200,
+      "final": "https://dizibal.org/ara?q=avatar",
+      "hits": 16,
+      "resulty": true,
+      "bytes": 190064
+    },
+    "bulundu": true,
+    "denenen": 24
+  },
+  {
+    "name": "DiziBox",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "DiziBox",
+      "domain": "www.dizibox.live",
+      "path": "/search?q={q}",
+      "code": 200,
+      "final": "https://www.dizibox.live/search",
+      "hits": 9,
+      "resulty": true,
+      "bytes": 794236
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "Dizilla",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "Dizilla",
+      "domain": "dizilla.la",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://dizilla.la/?s=avatar",
+      "hits": 9,
+      "resulty": true,
+      "bytes": 372764
+    },
+    "bulundu": true,
+    "denenen": 18
+  },
+  {
+    "name": "DiziMom",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "DiziMom",
+      "domain": "ddizimom.icu",
+      "path": "/ara?q={q}",
+      "code": 200,
+      "final": "https://ddizimom.icu/ara?q=avatar",
+      "hits": 19,
+      "resulty": true,
+      "bytes": 184608
+    },
+    "bulundu": true,
+    "denenen": 18
+  },
+  {
+    "name": "DiziRella",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "DiziRella",
+      "domain": "dizibal.org",
+      "path": "/ara?q={q}",
+      "code": 200,
+      "final": "https://dizibal.org/ara?q=avatar",
+      "hits": 16,
+      "resulty": true,
+      "bytes": 190064
+    },
+    "bulundu": true,
+    "denenen": 36
+  },
+  {
+    "name": "DiziWatch",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "DiziWatch",
+      "domain": "diziwatch.app",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://diziwatch.app/?s=avatar",
+      "hits": 5,
+      "resulty": true,
+      "bytes": 244629
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "Dmax",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 12
+  },
+  {
+    "name": "DomatesTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "FilmMakinesi",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 0
+  },
+  {
+    "name": "FilmModu",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "FilmModu",
+      "domain": "www.filmmodu.one",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://www.filmmodu.one/",
+      "hits": 4,
+      "resulty": true,
+      "bytes": 108038
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "FullHDFilm",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 0
+  },
+  {
+    "name": "HDFilmDelisi",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "HDFilmDelisi",
+      "domain": "hdfilmdelisi.one",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://hdfilmdelisi1.com/?s=avatar",
+      "hits": 5,
+      "resulty": true,
+      "bytes": 1085234
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "HDFilmizleBest",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "HDFilmizleBest",
+      "domain": "www.hdfilmizle.best",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://www.hdfilmizle.best/?s=avatar",
+      "hits": 53,
+      "resulty": true,
+      "bytes": 73758
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "HDFilmIzleInk",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 6
+  },
+  {
+    "name": "HDFilmIzleVip",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 6
+  },
+  {
+    "name": "JestYayin",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "JetFilmizle",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "JetFilmizle",
+      "domain": "jetfilmizle.app",
+      "path": "/search?q={q}",
+      "code": 200,
+      "final": "https://jetfilmizle.app/arama?q=avatar",
+      "hits": 68,
+      "resulty": true,
+      "bytes": 105152
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "KoalaTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "Kool TV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "KralSporHD",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "KultFilmler",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "KultFilmler",
+      "domain": "kultfilmler.net",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://kultfilmler.net/?s=avatar",
+      "hits": 19,
+      "resulty": true,
+      "bytes": 41668
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "LeoTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "LiderFilmIzle",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "LiderFilmIzle",
+      "domain": "dizibal.org",
+      "path": "/ara?q={q}",
+      "code": 200,
+      "final": "https://dizibal.org/ara?q=avatar",
+      "hits": 16,
+      "resulty": true,
+      "bytes": 190064
+    },
+    "bulundu": true,
+    "denenen": 36
+  },
+  {
+    "name": "LilitKoleksiyon",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "LilitKoleksiyon",
+      "domain": "vk.com",
+      "path": "/search?q={q}",
+      "code": 200,
+      "final": "https://vk.com/search?q=avatar",
+      "hits": 18,
+      "resulty": true,
+      "bytes": 291620
+    },
+    "bulundu": true,
+    "denenen": 30
+  },
+  {
+    "name": "MahsunSports",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "Mien TV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "NetVGold",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "NewTVLive",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "PapazSports",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "PatronHD",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "PowerSinema",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 0
+  },
+  {
+    "name": "RecTV",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 0
+  },
+  {
+    "name": "SelcukFlix",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "SelcukFlix",
+      "domain": "dizilla.la",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://dizilla.la/?s=avatar",
+      "hits": 9,
+      "resulty": true,
+      "bytes": 373090
+    },
+    "bulundu": true,
+    "denenen": 24
+  },
+  {
+    "name": "SelcukSports",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "SetFilmIzle",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "SetFilmIzle",
+      "domain": "www.setfilmizle.ltd",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://www.setfilmizle.ltd/?s=avatar",
+      "hits": 26,
+      "resulty": true,
+      "bytes": 31896
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "SezonlukDizi",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 6
+  },
+  {
+    "name": "SinemaTV",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "SinemaTV",
+      "domain": "vk.com",
+      "path": "/search?q={q}",
+      "code": 200,
+      "final": "https://vk.com/search?q=avatar",
+      "hits": 18,
+      "resulty": true,
+      "bytes": 291620
+    },
+    "bulundu": true,
+    "denenen": 18
+  },
+  {
+    "name": "SporTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "StbTV",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "Streamed",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "Taraftarium24",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "TimStreams",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "Tlctr",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 6
+  },
+  {
+    "name": "TRanimaci",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 0
+  },
+  {
+    "name": "TrDiziIzle",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "TrDiziIzle",
+      "domain": "dizibal.org",
+      "path": "/ara?q={q}",
+      "code": 200,
+      "final": "https://dizibal.org/ara?q=avatar",
+      "hits": 16,
+      "resulty": true,
+      "bytes": 190064
+    },
+    "bulundu": true,
+    "denenen": 36
+  },
+  {
+    "name": "TRGoals",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "TvDiziler",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "TvDiziler",
+      "domain": "4khdhub.one",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://4khdhub.one/?s=avatar",
+      "hits": 37,
+      "resulty": true,
+      "bytes": 36469
+    },
+    "bulundu": true,
+    "denenen": 102
+  },
+  {
+    "name": "vavooSpor",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  },
+  {
+    "name": "WebDramaTurkey",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "WebDramaTurkey",
+      "domain": "vk.com",
+      "path": "/search?q={q}",
+      "code": 200,
+      "final": "https://vk.com/search?q=avatar",
+      "hits": 18,
+      "resulty": true,
+      "bytes": 291621
+    },
+    "bulundu": true,
+    "denenen": 18
+  },
+  {
+    "name": "WebteIzle",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "WebteIzle",
+      "domain": "rubyvidhub.com",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://nuvorel.top/?s=avatar",
+      "hits": 2,
+      "resulty": true,
+      "bytes": 92201
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "Wfilmizle",
+    "tur": "FILM/DIZI",
+    "arama": null,
+    "bulundu": false,
+    "denenen": 0
+  },
+  {
+    "name": "YabanciDizi",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "YabanciDizi",
+      "domain": "ybncidizi.com",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://ybncidizi.com/?s=avatar",
+      "hits": 5,
+      "resulty": true,
+      "bytes": 214519
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "YesilCamTv",
+    "tur": "FILM/DIZI",
+    "arama": {
+      "name": "YesilCamTv",
+      "domain": "yesilcamtv.com.tr",
+      "path": "/?s={q}",
+      "code": 200,
+      "final": "https://yesilcamtv.com.tr/?s=avatar",
+      "hits": 5,
+      "resulty": true,
+      "bytes": 18156
+    },
+    "bulundu": true,
+    "denenen": 6
+  },
+  {
+    "name": "çiftd2m",
+    "tur": "LIVE",
+    "arama": null,
+    "bulundu": null
+  }
+]

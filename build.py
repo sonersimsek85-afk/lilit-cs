@@ -30,6 +30,17 @@ KOLEKSIYON_ICINDEKILER = {
     "anizium",
 }
 
+# Site erişim taramasında gerçek site domaini hiç açılmayanlar
+# (site-test.json, 26.11 ölçümü). iptv-org tabanlı CanliTV/vavooSpor korunur.
+OLU_SITELER = {
+    "filmmakinesi",
+    "fullhdfilm",
+    "powersinema",
+    "rectv",
+    "tranimaci",
+    "wfilmizle",
+}
+
 
 def fetch(url, timeout=30):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -64,7 +75,10 @@ def main():
                 continue
             key = name.casefold()
             internal = (it.get("internalName") or "").casefold()
-            if key in KOLEKSIYON_ICINDEKILER or internal in KOLEKSIYON_ICINDEKILER:
+            if (key in KOLEKSIYON_ICINDEKILER
+                    or internal in KOLEKSIYON_ICINDEKILER
+                    or key in OLU_SITELER
+                    or internal in OLU_SITELER):
                 continue
             if key in seen_names or purl in seen_urls:
                 continue
